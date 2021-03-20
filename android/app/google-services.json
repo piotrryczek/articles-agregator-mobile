@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284378225412",
+    "project_id": "articles-agregator",
+    "storage_bucket": "articles-agregator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284378225412:android:4737385d80d4e55f8d8e51",
+        "android_client_info": {
+          "package_name": "com.articlesagregator.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284378225412-hrdl1fme08svq7s17pmdjfdpuair45ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.articlesagregator.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284378225412-ujhqjpdu0ek1t9598gl633t0g99aplgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbkKz_8qJjUBBNahlbifwYIMgOWxmfHao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284378225412-ujhqjpdu0ek1t9598gl633t0g99aplgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
